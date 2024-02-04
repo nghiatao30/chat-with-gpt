@@ -1,5 +1,5 @@
 # talk-to-chatgpt
-Talk To ChatGPT
+Small project to talk to chatbot using VITS and EffficientConformer
 
 1. Download all Modules (ex Pip install OpenAI)
 2. Set Your OpenAI API Key in openaiapikey2.txt
